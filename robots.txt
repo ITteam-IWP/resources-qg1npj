@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://ITteam-IWP.github.io/resources-qg1npj/sitemap.xml
